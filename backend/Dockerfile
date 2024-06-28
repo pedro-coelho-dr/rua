@@ -1,5 +1,5 @@
 # Use the official Go image
-FROM golang:1.17-alpine
+FROM golang:1.22.4-alpine
 
 # Install necessary build tools
 RUN apk add --no-cache git
