@@ -3,5 +3,6 @@
 - go
 - chi
 - gorm
+- godotenv
 - postgres
 - docker
