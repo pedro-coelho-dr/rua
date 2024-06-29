@@ -17,3 +17,5 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+.notes.txt
